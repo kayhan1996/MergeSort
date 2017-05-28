@@ -12,5 +12,9 @@ namespace MergeSort {
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
         }
+
+        static void mergeSort(double[] array) {
+
+        }
     }
 }
